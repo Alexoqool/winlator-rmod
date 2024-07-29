@@ -203,6 +203,7 @@
     <string name="box86_64_env_var_help__dynarec_forward">Defines the max allowed forward value when building Block</string>
     <string name="box86_64_env_var_help__dynarec_callret">Optimization of CALL/RET opcodes</string>
     <string name="box86_64_env_var_help__dynarec_wait">Defines whether or not Dynarec will wait for the FillBlock to be ready</string>
+    <string name="box86_64_env_var_help__avx">Enable or disable AVX and/or AVX2 extensions&lt;br />&lt;br /> Guide for Box64 0.2.9:&lt;br />&lt;br /> &lt;b>0&lt;/b> : Disable AVX and AVX2 extensions&lt;br /> &lt;b>1&lt;/b> : Enable base AVX extensions&lt;br /> &lt;b>2&lt;/b> : Enable all AVX and AVX2 extensions&lt;br />&lt;br /> Guide for Box64 0.3.0 and newer:&lt;br />&lt;br /> &lt;b>0&lt;/b> : Enable AVX2 extensions&lt;br /> &lt;b>1&lt;/b> : Enable all AVX and AVX2 extensions&lt;br />&lt;b>2&lt;/b> : Not being used"</string>
     <string name="columns">Columns</string>
     <string name="directinput_mapper_type">DirectInput Mapper Type</string>
     <string name="desktop">Desktop</string>
