@@ -10,6 +10,8 @@ android {
         versionCode 16
         versionName "7.1"
     }
+    
+    namespace 'com.winlator'
 
     buildTypes {
         debug {
